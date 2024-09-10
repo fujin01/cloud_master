@@ -1,0 +1,10 @@
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\bin\Debug\TRZBD_lab16.exe.config
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\bin\Debug\TRZBD_lab16.exe
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\bin\Debug\TRZBD_lab16.pdb
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.csprojAssemblyReference.cache
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.Form1.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.Properties.Resources.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.csproj.GenerateResource.cache
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.csproj.CoreCompileInputs.cache
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.exe
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_lab16\TRZBD_lab16\obj\Debug\TRZBD_lab16.pdb
