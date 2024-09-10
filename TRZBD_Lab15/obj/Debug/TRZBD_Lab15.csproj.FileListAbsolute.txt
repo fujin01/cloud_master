@@ -1,0 +1,25 @@
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\bin\Debug\TRZBD_Lab15.exe.config
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\bin\Debug\TRZBD_Lab15.exe
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\bin\Debug\TRZBD_Lab15.pdb
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.csprojAssemblyReference.cache
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form1.resources
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Properties.Resources.resources
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.csproj.GenerateResource.cache
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.csproj.CoreCompileInputs.cache
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.exe
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.pdb
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form2.resources
+H:\ТРЗБД\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form3.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\bin\Debug\TRZBD_Lab15.exe.config
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\bin\Debug\TRZBD_Lab15.exe
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\bin\Debug\TRZBD_Lab15.pdb
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.csprojAssemblyReference.cache
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form1.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form2.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form3.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Form4.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.Properties.Resources.resources
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.csproj.GenerateResource.cache
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.csproj.CoreCompileInputs.cache
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.exe
+F:\3 КУРС\ТРЗБД\лабы\winForms\TRZBD_Lab15\TRZBD_Lab15\obj\Debug\TRZBD_Lab15.pdb
